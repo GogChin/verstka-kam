@@ -1,0 +1,24 @@
+{
+  "name": "verstka-kam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass -w ./src/scss/index.scss -o ./src/css/",
+    "start": "node App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GogChin/verstka-kam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GogChin/verstka-kam/issues"
+  },
+  "homepage": "https://github.com/GogChin/verstka-kam#readme",
+  "dependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
